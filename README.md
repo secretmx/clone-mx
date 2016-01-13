@@ -1,2 +1,1 @@
-# clone-mx
-append dev
+mster write
